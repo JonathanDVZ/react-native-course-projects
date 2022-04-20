@@ -1,0 +1,49 @@
+{
+  "blogposts": [
+    {
+      "title": "API POST #11111111",
+      "content": "content for my post",
+      "id": 1
+    },
+    {
+      "title": "Newly created API post",
+      "content": "Some content",
+      "id": 2
+    },
+    {
+      "title": "Third post creation",
+      "content": "Asdofjl",
+      "id": 3
+    },
+    {
+      "title": "Updated blog post #4",
+      "content": "Alskdjlkdf",
+      "id": 4
+    },
+    {
+      "title": "New test",
+      "content": "New test",
+      "id": 5
+    },
+    {
+      "title": "New test 2!",
+      "content": "New test 2!",
+      "id": 6
+    },
+    {
+      "title": "Test!!",
+      "content": "Test!!",
+      "id": 7
+    },
+    {
+      "title": "Algo",
+      "content": "Algo nuevo",
+      "id": 8
+    },
+    {
+      "title": "Algo 2",
+      "content": "Algo 2",
+      "id": 9
+    }
+  ]
+}
